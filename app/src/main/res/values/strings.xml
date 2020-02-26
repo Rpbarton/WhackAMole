@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhackAMole</string>
+    <string name="start">START</string>
+    <string name="points_0">Points: 0</string>
+    <string name="_30">30</string>
+    <string name="a_man_has_fallen_into_the_river_in_lego_city">A MAN HAS FALLEN INTO THE RIVER IN LEGO CITY</string>
+</resources>
